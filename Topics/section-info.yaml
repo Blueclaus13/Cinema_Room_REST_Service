@@ -1,0 +1,32 @@
+content:
+- Integer types and operations
+- Relational operators
+- Conditional statement
+- Increment and decrement
+- The while and do-while loops
+- The for-loop
+- Branching statements
+- Switch statement
+- Calling a method
+- Functional decomposition
+- Primitive and reference types
+- Arrays as parameters
+- Constructor
+- Package
+- Getters and setters
+- Multiple constructors
+- The keyword super
+- Objects
+- Static members
+- Hiding and overriding
+- Interface
+- Inner classes
+- Introduction to generic programming
+- Generics and Object
+- The List interface
+- Exception handling
+- Lambda expressions
+- The Set interface
+- Threads as objects
+- Custom threads
+- Thread synchronization
